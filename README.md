@@ -1,2 +1,2 @@
 # fail-resilient-cloud-infrastructure-using-AWS
-This is the open source repo of fail-resilient clound infrastructure that is designed for apps 
+This is the open source repo of fail-resilient cloud infrastructure that is designed for apps (Here we used NGINX app which is very primitive) 
